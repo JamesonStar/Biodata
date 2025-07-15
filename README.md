@@ -25,3 +25,6 @@ kelas : XII PPLG
 alasan PKL :
 Saya ingin mengembangkan kemampuan teknis dan soft skill seperti komunikasi,
 kerja tim, dan manajemen waktu yang tidak selalu didapatkan di kelas
+
+nama : Salim Syauqi Rachman
+Kelas : XII PPLG
