@@ -20,8 +20,9 @@ Melalui PKL ini, saya berharap dapat:
 > *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
 > – Gallant 2025 sedang PKL, dan hidup AI 
 
-nama : Andre Agustinus Zacharias
-kelas : XII PPLG 
-alasan PKL :
+
+-    **nama** : Andre Agustinus Zacharias
+-    **kelas** : XII PPLG 
+-    **alasan PKL** :
 Saya ingin mengembangkan kemampuan teknis dan soft skill seperti komunikasi,
 kerja tim, dan manajemen waktu yang tidak selalu didapatkan di kelas
