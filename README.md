@@ -17,5 +17,5 @@ Melalui PKL ini, saya berharap dapat:
 
 ---
 
-> *“Belajar di kelas itu penting, namun menhadapi kenyaan lebih penting.”*  
-> – Gallant
+> *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
+> – Gallant 2025 sedang PKL
