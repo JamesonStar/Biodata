@@ -21,8 +21,4 @@ Melalui PKL ini, saya berharap dapat:
 > – Gallant 2025 sedang PKL, dan hidup AI 
 
 
--    **nama** : Andre Agustinus Zacharias
--    **kelas** : XII PPLG 
--    **alasan PKL** :
-Saya ingin mengembangkan kemampuan teknis dan soft skill seperti komunikasi,
-kerja tim, dan manajemen waktu yang tidak selalu didapatkan di kelas
+
