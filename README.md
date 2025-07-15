@@ -1,11 +1,21 @@
-# Biodata
-Biodata dan alasan PKL 
+# 📄 Biodata dan Alasan PKL
 
-Nama : Gallant Fathur Rahman
-Sekolah : SMK Negeri 2 Cimahi
-<<<<<<< HEAD
-Alasan PKL : Karena ini merupakan mata pelajaran dan syarat kelulusan di SMK Negeri 2 Cimahi, saya harus melaksanakan program tersebut. Saya juga ingin banyak belajar hal mengenai dunia industri, dan persiapan saya untuk memasuki industri
-=======
-Alasan PKL : Karena ini merupakan mata pelajaran dan syarat kelulusan di SMK Negeri 2 Cimahi, 
-saya mau tidak mau harus melaksanakan program tersebut
->>>>>>> 951aa99750497792c3a0a2f62b20044225a227f7
+## 👤 Biodata
+
+- **Nama**  : Gallant Fathur Rahman  
+- **Sekolah** : SMK Negeri 2 Cimahi  
+
+## 🎯 Alasan Mengikuti PKL
+
+Saya mengikuti **Program Praktik Kerja Lapangan (PKL)** karena ini merupakan bagian dari mata pelajaran dan salah satu syarat kelulusan di SMK Negeri 2 Cimahi. Selain itu, saya melihat program ini sebagai **kesempatan penting untuk belajar langsung di dunia industri**, memahami proses kerja secara nyata, dan mengembangkan keterampilan serta etos kerja yang akan sangat berguna sebagai **persiapan menghadapi dunia kerja setelah lulus**.
+
+Melalui PKL ini, saya berharap dapat:
+- Mendalami pengalaman kerja secara langsung  
+- Mengenal lingkungan dan budaya industri  
+- Meningkatkan skill teknis dan komunikasi  
+- Mempersiapkan diri menjadi lulusan yang siap kerja dan profesional
+
+---
+
+> *“Belajar di kelas itu penting, tapi belajar dari dunia nyata itu tidak tergantikan.”*  
+> – Gallant Fathur Rahman
