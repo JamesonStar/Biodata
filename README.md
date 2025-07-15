@@ -17,5 +17,5 @@ Melalui PKL ini, saya berharap dapat:
 
 ---
 
-> *“Belajar di kelas itu penting, tapi belajar dari dunia nyata itu tidak tergantikan.”*  
-> – Gallant Fathur Rahman
+> *“Belajar di kelas itu penting, namun menhadapi kenyaan lebih penting.”*  
+> – Gallant
