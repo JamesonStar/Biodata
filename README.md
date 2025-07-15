@@ -18,4 +18,4 @@ Melalui PKL ini, saya berharap dapat:
 ---
 
 > *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
-> – Gallant 2025 sedang PKL
+> – Gallant 2025 sedang PKL, dan hidup AI 
