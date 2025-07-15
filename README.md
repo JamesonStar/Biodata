@@ -15,16 +15,15 @@ Melalui PKL ini, saya berharap dapat:
 - Meningkatkan skill teknis dan komunikasi  
 - Mempersiapkan diri menjadi lulusan yang siap kerja dan profesional
 
----
-
-> *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
-> – Gallant 2025 sedang PKL, dan hidup AI 
-
 nama : Andre Agustinus Zacharias
 kelas : XII PPLG 
 alasan PKL :
 Saya ingin mengembangkan kemampuan teknis dan soft skill seperti komunikasi,
 kerja tim, dan manajemen waktu yang tidak selalu didapatkan di kelas
 
-nama : Salim Syauqi Rachman
-Kelas : XII PPLG
+
+---
+
+> *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
+> – Gallant 2025 sedang PKL, dan hidup AI 
+
