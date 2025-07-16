@@ -23,8 +23,9 @@ kerja tim, dan manajemen waktu yang tidak selalu didapatkan di kelas
 
 Nama : Salim Syauqi Rachman
 Kelas : XII PPLG B
-Alasan PKL : Saya ingin memiliki pengalaman bekerja di dunia industri, dan menambah biodata diri.
----
+Alasan PKL : Saya ingin memiliki pengalaman bekerja di dunia industri, dan menambah biodata diri. Selain itu, 
+saya butuh pelajaran github, javascript, dan lain sebagainya.
+
 
 > *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
 > – Gallant 2025 sedang PKL, dan hidup AI 
