@@ -23,6 +23,7 @@ kerja tim, dan manajemen waktu yang tidak selalu didapatkan di kelas
 
 Nama : Salim Syauqi Rachman
 Kelas : XII PPLG B
+Alasan PKL : Saya ingin memiliki pengalaman bekerja di dunia industri, dan menambah biodata diri.
 ---
 
 > *“Belajar di kelas itu penting, namun menhadapi kenyataan lebih penting.”*  
